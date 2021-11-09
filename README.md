@@ -1,6 +1,7 @@
 # cipher_ha2573
 
-This package has cipher function that will do encrypt (or decrypt!) for strings
+This package has cipher function that will do encrypt (or decrypt!) for strings. 
+Read online documentation here: https://cipher-ha2573.readthedocs.io/en/latest/example.html
 
 ## Installation
 
