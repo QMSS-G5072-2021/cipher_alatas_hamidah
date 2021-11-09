@@ -24,7 +24,6 @@ def cipher(text, shift, encrypt=True):
     >>> cipher_ha2573.cipher(text, shift, True)
     'Tvddfttjpo'
     
-    Other examples for decrypting
     >>> from cipher_ha2573 import cipher_ha2573
     >>> text = "Tvddfttjpo"
     >>> shift = 1
